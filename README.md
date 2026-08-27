@@ -68,3 +68,4 @@ Based on the data analysis, here are the top three strategic recommendations for
 
 ---
 **View the full Python code and data cleaning process in the attached .ipynb file.**
+**https://www.kaggle.com/code/miltiadistzouvaras/bellabeat-analysis**
